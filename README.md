@@ -1,28 +1,46 @@
 
-# Project Ros with python UNIDA
+# Project Title
 
-Esto es un proyecto de los alumnos de la UNIDA de la carrera de Ing. Informatica úlitmo año
+A brief description of what this project does and who it's for
 
 
-## Installation
+## Authors
 
-Ros en Windows
+- [@octokatherine](https://www.github.com/octokatherine)
 
-```bash
-  https://wiki.ros.org/Installation/Windows
-  Usar ros melodic
-```
-    
-## Demo
 
-Para ejecutar el programa se debe de instalar Ros en Windows.
-```bash
-1 - roscore | Iniciar
-2 - devel\setup | en la carpeta del proyecto
-3 - rosrun turtlesim turtlesim_node | se inicia la tortuga
-4-  rosrun beginner_tutorials src/mover.py | ejecutar y observar el movimiento
-```
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
 
 ## 🚀 About Me
 I'm a full stack developer...
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+
 
